@@ -41,6 +41,7 @@
 # define DefaultMaxLoadFactor	5
 
 #define DEBUG 1
+#define HASH_STATISTICS 1
 /*
 ** Fast arithmetic, relying on powers of 2,
 ** and on pre-processor concatenation property
